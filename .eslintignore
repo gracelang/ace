@@ -14,7 +14,6 @@ lib/ace/keyboard/vim*.js
 experiments/
 tool/
 doc/
-build/
 demo/
 api/
 **/* *
